@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<!-- A simple inline announcement. -->
+Work in progress...
