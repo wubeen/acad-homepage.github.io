@@ -15,7 +15,9 @@
       institution: Hong Kong University of Science and Technology(HKUST), Hong Kong, China 
       year: 2017
       description:
-        - Conducted research on Meta-learning related topics and resolved some real world problems with existing meta learning methods.
+        - Approximate Join Processing by Random Sampling, PhD Thesis
+          - Studying the general problem of approximate processing of complex join queries. 
+          - Generalizing our triangle sampling algorithm to arbitrary join queries, by performing random walks over the underlying join graph. 
         # - Description 2.
         # - title: Description 3.
           # contents:
@@ -34,9 +36,15 @@
     - title: Research Scientist 
       institution: Database and storage Lab, DAMO Academy, Alibaba Group, Hangzhou, China
       year: 2018.12 - Present 
+      description:
+        - DB4AI
+        - AI4DB
     - title: Researcher
       institution: Noah’s Ark Lab, Huawei, Hong Kong, China
       year: 2017.8 - 2018.10 
+      description:
+        - Meta-learning and few-shot learning
+          - Conducted research on Meta-learning related topics and resolved some real world problems with existing meta learning methods.
       # description:
       #   - Description 1.
       #   - Description 2.
