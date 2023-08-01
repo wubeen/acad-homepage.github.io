@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Bin Wu
-    # - name: Date of Birth
-    #   value: 14th March 1879
+    # - name: Email
+    #   value: email.jpg
     - name: Languages
       value: Chinese, English, Cantonese 
 
@@ -15,7 +15,7 @@
       institution: Hong Kong University of Science and Technology(HKUST), Hong Kong, China 
       year: 2017
       description:
-        # - Description 1.
+        - Conducted research on Meta-learning related topics and resolved some real world problems with existing meta learning methods.
         # - Description 2.
         # - title: Description 3.
           # contents:
@@ -31,6 +31,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist 
+      institution: Database and storage Lab, DAMO Academy, Alibaba Group, Hangzhou, China
+      year: 2018.12 - Present 
     - title: Researcher
       institution: Noah’s Ark Lab, Huawei, Hong Kong, China
       year: 2017.8 - 2018.10 
@@ -70,7 +73,7 @@
 
     - title: <a href="https://github.com/hkustDB/Cquirrel-Frontend">Cquirrel</a>
       year: 2021-now
-      description: Continuous query processing / change propogation in Flink.
+      description: Continuous query processing in Flink.
 - title: Honors and Awards
   type: time_table
   contents:
